@@ -1,6 +1,6 @@
 {
   "name": "pegelonline-api-client",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "description": "A API Client for the Pegelonline API. The API Endpoint is free of charge and can be used without registration. The API provided data about water levels, water temperatures and discharge rates of rivers in Germany. The data is provided by the Federal Waterways and Shipping Administration (WSV).",
   "main": "dist/index.js",
   "scripts": {
